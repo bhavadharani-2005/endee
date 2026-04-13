@@ -1,0 +1,38 @@
+[
+  {
+    "id": "job-1",
+    "title": "Machine Learning Engineer",
+    "description": "Build and deploy machine learning pipelines, train models, optimize inference, and collaborate with product teams to ship AI features.",
+    "skills": ["Python", "Machine Learning", "PyTorch", "TensorFlow", "SQL", "Docker", "MLOps"]
+  },
+  {
+    "id": "job-2",
+    "title": "Data Scientist",
+    "description": "Analyze structured and unstructured data, build predictive models, create dashboards, and communicate insights to stakeholders.",
+    "skills": ["Python", "Statistics", "Pandas", "Scikit-learn", "SQL", "Data Visualization", "Experimentation"]
+  },
+  {
+    "id": "job-3",
+    "title": "NLP Engineer",
+    "description": "Design natural language processing systems, create text embeddings, fine-tune transformer models, and evaluate language understanding workflows.",
+    "skills": ["Python", "NLP", "Transformers", "Sentence Transformers", "PyTorch", "APIs", "Prompt Engineering"]
+  },
+  {
+    "id": "job-4",
+    "title": "AI Product Engineer",
+    "description": "Build AI-first product features, integrate LLM APIs, ship retrieval systems, and work across backend, frontend, and prompt design.",
+    "skills": ["Python", "RAG", "LLMs", "OpenAI API", "FastAPI", "Streamlit", "Vector Databases"]
+  },
+  {
+    "id": "job-5",
+    "title": "Backend Python Developer",
+    "description": "Develop backend services, maintain APIs, optimize database access, and build reliable integrations for production systems.",
+    "skills": ["Python", "FastAPI", "Django", "REST APIs", "PostgreSQL", "Testing", "Git"]
+  },
+  {
+    "id": "job-6",
+    "title": "Data Engineer",
+    "description": "Create robust data pipelines, manage ETL workflows, process large datasets, and ensure data quality for analytics and machine learning teams.",
+    "skills": ["Python", "SQL", "ETL", "Airflow", "Spark", "Data Warehousing", "Cloud"]
+  }
+]
